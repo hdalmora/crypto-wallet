@@ -1,0 +1,16 @@
+export default {
+  white: '#fff',
+  dark100: '#202024',
+  dark200: '#121214',
+  gray100: '#E1E1E6',
+  gray200: '#D7CCC4',
+  gray300: '#29292E',
+  gray400: '#A29F99',
+  gray500: '#969CB2',
+  purple100: '#7F3DFF',
+  purple200: '#5943BE',
+  purple300: '#442445',
+  green100: '#04D361',
+  green200: '#24452D',
+  red100: '#E52E4D',
+};
